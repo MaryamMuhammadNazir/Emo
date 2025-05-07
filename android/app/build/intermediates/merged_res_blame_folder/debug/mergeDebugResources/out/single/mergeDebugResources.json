@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.meow.app-debug-88:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.meow.app-main-90:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.meow.app-debug-88:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.meow.app-main-90:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.meow.app-debug-88:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.meow.app-main-90:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.meow.app-debug-88:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.meow.app-main-90:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.meow.app-debug-88:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.meow.app-main-90:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.meow.app-debug-88:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.meow.app-main-90:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.meow.app-debug-88:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.meow.app-main-90:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.meow.app-debug-88:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.meow.app-main-90:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.meow.app-debug-88:/raw_notifi.mp3.flat",
+        "source": "com.meow.app-main-90:/raw/notifi.mp3"
+    },
+    {
+        "merged": "com.meow.app-debug-88:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.meow.app-main-90:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.meow.app-debug-88:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.meow.app-main-90:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.meow.app-debug-88:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.meow.app-main-90:/mipmap-mdpi/ic_launcher.png"
+    }
+]

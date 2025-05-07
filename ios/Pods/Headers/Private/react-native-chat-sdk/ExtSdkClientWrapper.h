@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-agora-chat/native_src/objc/dispatch/ExtSdkClientWrapper.h

@@ -1,0 +1,6 @@
+module react_native_ota_hot_update {
+  umbrella header "react-native-ota-hot-update-umbrella.h"
+
+  export *
+  module * { export * }
+}

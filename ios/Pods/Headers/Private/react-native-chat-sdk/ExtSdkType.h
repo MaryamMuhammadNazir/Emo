@@ -1,0 +1,1 @@
+../../../../../node_modules/react-native-agora-chat/native_src/cpp/common/ExtSdkType.h
