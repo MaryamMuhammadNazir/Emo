@@ -1,1 +1,0 @@
-../../../../../../../../build/generated/ios/react/renderer/components/AgoraRtcNgSpec/ComponentDescriptors.h

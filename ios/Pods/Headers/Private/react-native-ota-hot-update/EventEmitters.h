@@ -1,1 +1,0 @@
-../../../../../node_modules/react-native-ota-hot-update/ios/generated/RNOtaHotUpdateSpec/EventEmitters.h

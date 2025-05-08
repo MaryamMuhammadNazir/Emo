@@ -1,1 +1,0 @@
-../../../../../node_modules/react-native-ota-hot-update/ios/OtaHotUpdate.h
